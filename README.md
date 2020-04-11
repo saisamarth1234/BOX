@@ -1,2 +1,1 @@
-# BOX
-javascript
+# Box Class
